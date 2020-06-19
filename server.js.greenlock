@@ -1,0 +1,24 @@
+// Greenlock Express is a Web Server with Fully Automated HTTPS and renewals.
+// You define your app and let Greenlock handle issuing
+// and renewing Free SSL Certificates.
+// https://git.coolaj86.com/coolaj86/greenlock-express.js
+
+"use strict";
+
+var app = require("./app.js");
+
+require("greenlock-express")
+    .init({
+        packageRoot: __dirname,
+        configDir: "./greenlock.d",
+
+        // contact for security and critical bug notices
+        maintainerEmail: "sumkina.ol@gmail.com",
+
+        // whether or not to run at cloudscale
+        cluster: false
+    })
+    // Serves on 80 and 443
+    // Get's SSL certificates magically!
+    .serve(app);
+

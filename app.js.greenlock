@@ -1,0 +1,5 @@
+var app = function(req, res) {
+	res.end("Hello!");
+};
+
+module.exports = app;

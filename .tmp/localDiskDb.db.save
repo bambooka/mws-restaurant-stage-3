@@ -2,15 +2,15 @@
   "data": {
     "restaurants": [
       {
-        "name": "Гонконг",
-        "neighborhood": "Адмиралтейский",
-        "photograph": "https://www.avtobanket.ru/upload/image_gallery/982/800x_5abbbf00e128ab4e2123912bf2814b61.jpg",
-        "address": "Садовая ул., 42, лит.А, Санкт-Петербург",
+        "name": "",
+        "neighborhood": "Manhattan",
+        "photograph": "1",
+        "address": "171 E Broadway, New York, NY 10002",
         "latlng": {
-          "lat": 59.9259417,
-          "lng": 30.3143333
+          "lat": 40.713829,
+          "lng": -73.989667
         },
-        "cuisine_type": "Китайская",
+        "cuisine_type": "Asian",
         "operating_hours": {
           "Monday": "5:30 pm - 11:00 pm",
           "Tuesday": "5:30 pm - 11:00 pm",
@@ -21,20 +21,20 @@
           "Sunday": "12:00 pm - 4:00 pm, 5:30 pm - 11:00 pm"
         },
         "createdAt": 1504095563444,
-        "updatedAt": "2020-06-07T12:23:21.614Z",
+        "updatedAt": "2020-06-05T13:19:39.660Z",
         "id": 1,
-        "is_favorite": "true"
+        "is_favorite": "false"
       },
       {
-        "name": "Хочу харчо",
-        "neighborhood": "Адмиралтейский",
-        "photograph": "https://experience-ireland.s3.amazonaws.com/thumbs2/ed52fe4c-5a8a-11e8-988e-6e714efd800d.800x600.jpg",
-        "address": "Садовая ул., 39/41, Санкт-Петербург, 190031",
+        "name": "Emily",
+        "neighborhood": "Brooklyn",
+        "photograph": "2",
+        "address": "919 Fulton St, Brooklyn, NY 11238",
         "latlng": {
-          "lat": 59.9267965,
-          "lng": 30.3155886
+          "lat": 40.683555,
+          "lng": -73.966393
         },
-        "cuisine_type": "Грузинская",
+        "cuisine_type": "Pizza",
         "operating_hours": {
           "Monday": "5:30 pm - 11:00 pm",
           "Tuesday": "5:30 pm - 11:00 pm",
@@ -50,15 +50,15 @@
         "id": 2
       },
       {
-        "name": "Тан Жен",
-        "neighborhood": "Кировский",
-        "photograph": "https://www.restoclub.ru/uploads/place_thumbnail_big/d/a/6/1/da612de3c32c1beae47672125d7388b6.jpg",
-        "address": "ул. Лёни Голикова, 3, Санкт-Петербург, 198262",
+        "name": "Kang Ho Dong Baekjeong",
+        "neighborhood": "Manhattan",
+        "photograph": "3",
+        "address": "1 E 32nd St, New York, NY 10016",
         "latlng": {
-          "lat": 59.8449845,
-          "lng": 30.2384501
+          "lat": 40.747143,
+          "lng": -73.985414
         },
-        "cuisine_type": "Китайская",
+        "cuisine_type": "Asian",
         "operating_hours": {
           "Monday": "11:30 am - 2:00 am",
           "Tuesday": "11:30 am - 2:00 am",
@@ -73,15 +73,15 @@
         "id": 3
       },
       {
-        "name": "Мисо",
-        "neighborhood": "Василеостровский",
-        "photograph": "https://lh3.googleusercontent.com/proxy/s4LrEntkvBORIzK8IBdghUH-0QqQ2FBOScPIqjQopUKS0EVN69H51a5u71IW4s6PMPIi7U_arL6TREIm34QPtCL5k3y7KlDQsszNYa9KyKYDaMCCrTnvMq7rOuPCp-CsLlx4",
-        "address": "Наличная ул., 15, Санкт-Петербург, 199106",
+        "name": "Katz's Delicatessen",
+        "neighborhood": "Manhattan",
+        "photograph": "4",
+        "address": "205 E Houston St, New York, NY 10002",
         "latlng": {
-          "lat": 59.9291298,
-          "lng": 30.2492586
+          "lat": 40.722216,
+          "lng": -73.987501
         },
-        "cuisine_type": "Японская",
+        "cuisine_type": "American",
         "operating_hours": {
           "Monday": "8:00 am - 10:30 pm",
           "Tuesday": "8:00 am - 10:30 pm",
@@ -97,15 +97,15 @@
         "id": 4
       },
       {
-        "name": "Евразия",
-        "neighborhood": "Московский",
-        "photograph": "https://lh3.googleusercontent.com/proxy/_idAYIF42f3L1pX1s4VS2bG9GibZoaP3d-jyNUelnYTrcwMDEi0S8kwmUyoEBcmJE-2hnMgf7lM_rfDzx0LnrmCm27k87o1QdRN6fTgogOekX3C3vBO0-P5dsp40THm6LOGnevg",
-        "address": "Шереметьевская улица, 13 (ТЦ «Масштаб», 1 этаж, Санкт-Петербург, 196210)",
+        "name": "Roberta's Pizza",
+        "neighborhood": "Brooklyn",
+        "photograph": "5",
+        "address": "261 Moore St, Brooklyn, NY 11206",
         "latlng": {
-          "lat": 59.8436367,
-          "lng": 30.3117007
+          "lat": 40.705089,
+          "lng": -73.933585
         },
-        "cuisine_type": "Японская",
+        "cuisine_type": "Pizza",
         "operating_hours": {
           "Monday": "11:00 am - 12:00 am",
           "Tuesday": "11:00 am - 12:00 am",
@@ -121,15 +121,15 @@
         "id": 5
       },
       {
-        "name": "Сакартвело",
-        "neighborhood": "Василеостровский",
-        "photograph": "https://experience-ireland.s3.amazonaws.com/thumbs2/ec63773c-5a8a-11e8-b5d6-6e714efd800d.800x600.jpg",
-        "address": "12-я лин. В.О., 13, Санкт-Петербург, 199178",
+        "name": "Hometown BBQ",
+        "neighborhood": "Brooklyn",
+        "photograph": "6",
+        "address": "454 Van Brunt St, Brooklyn, NY 11231",
         "latlng": {
-          "lat": 59.931871,
-          "lng": 30.2733927
+          "lat": 40.674925,
+          "lng": -74.016162
         },
-        "cuisine_type": "Грузинская",
+        "cuisine_type": "American",
         "operating_hours": {
           "Monday": "Closed",
           "Tuesday": "12:00 pm - 10:00 pm",
@@ -145,15 +145,15 @@
         "id": 6
       },
       {
-        "name": "Золотая панда",
-        "neighborhood": "Василеостровский",
-        "photograph": "https://experience-ireland.s3.amazonaws.com/thumbs2/7105bbfa-90c3-11e8-b5d2-0ac55974a77a.800x600.jpg",
-        "address": "Гаванская ул., 4, Санкт-Петербург, 199106",
+        "name": "Superiority Burger",
+        "neighborhood": "Manhattan",
+        "photograph": "7",
+        "address": "430 E 9th St, New York, NY 10009",
         "latlng": {
-          "lat": 59.9244495,
-          "lng": 30.244168
+          "lat": 40.727397,
+          "lng": -73.983645
         },
-        "cuisine_type": "Вьетнамская",
+        "cuisine_type": "American",
         "operating_hours": {
           "Monday": "11:30 am - 10:00 pm",
           "Tuesday": "Closed",
@@ -169,15 +169,15 @@
         "id": 7
       },
       {
-        "name": "Нячанг",
-        "neighborhood": "Адмиралтейский",
-        "photograph": "https://www.tsum.ru/upload/medialibrary/c9c/c9ce4b74324adb2745a1ff4af0c2d0d8.jpg",
-        "address": "Рузовская ул., 19, Санкт-Петербург, 190013",
+        "name": "The Dutch",
+        "neighborhood": "Manhattan",
+        "photograph": "8",
+        "address": "131 Sullivan St, New York, NY 10012",
         "latlng": {
-          "lat": 59.9115823,
-          "lng": 30.2941315
+          "lat": 40.726584,
+          "lng": -74.002082
         },
-        "cuisine_type": "Вьетнамская",
+        "cuisine_type": "American",
         "operating_hours": {
           "Monday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
           "Tuesday": "11:30 am - 3:00 pm, 5:30 pm - 11:00 pm",
@@ -193,15 +193,15 @@
         "id": 8
       },
       {
-        "name": "Цзао Ван",
-        "neighborhood": "Кировский",
-        "photograph": "https://msk.avtobanket.ru/upload/image_gallery/4330/800x_0359ad958af2b6d58cb3e3e56cc20c92.jpg",
-        "address": "Ленинский пр., 114, Санкт-Петербург, 198207",
+        "name": "Mu Ramen",
+        "neighborhood": "Queens",
+        "photograph": "9",
+        "address": "1209 Jackson Ave, Queens, NY 11101",
         "latlng": {
-          "lat": 59.8512345,
-          "lng": 30.231348
+          "lat": 40.743797,
+          "lng": -73.950652
         },
-        "cuisine_type": "Китайская",
+        "cuisine_type": "Asian",
         "operating_hours": {
           "Monday": "5:00 pm - 10:00 pm",
           "Tuesday": "5:00 pm - 10:00 pm",
@@ -217,15 +217,14 @@
         "id": 9
       },
       {
-        "name": "Макао",
-        "neighborhood": "Василеостровский",
-        "photograph": "https://porusski.me/wp-content/uploads/2019/12/11-2-800x600.jpg",
-        "address": "ул. Кораблестроителей, 32, корп. 1, Санкт-Петербург, 199397",
+        "name": "Casa Enrique",
+        "neighborhood": "Queens",
+        "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
-          "lat": 59.941932,
-          "lng": 30.2369937
+          "lat": 40.743394,
+          "lng": -73.954235
         },
-        "cuisine_type": "Китайская",
+        "cuisine_type": "Mexican",
         "operating_hours": {
           "Monday": "5:00 pm - 12:00 am",
           "Tuesday": "5:00 pm - 12:00 am",
@@ -583,24 +582,6 @@
         "createdAt": "2020-06-06T22:30:57.509Z",
         "updatedAt": "2020-06-06T22:30:57.509Z",
         "id": 38
-      },
-      {
-        "restaurant_id": 6,
-        "name": "Olga",
-        "rating": 4,
-        "comments": "Cool place!\n",
-        "createdAt": "2020-06-07T13:06:42.934Z",
-        "updatedAt": "2020-06-07T13:06:42.934Z",
-        "id": 39
-      },
-      {
-        "restaurant_id": 6,
-        "name": "Test offline name",
-        "rating": 4,
-        "comments": "Offline comment",
-        "createdAt": "2020-06-07T13:10:12.691Z",
-        "updatedAt": "2020-06-07T13:10:12.691Z",
-        "id": 40
       }
     ]
   },
@@ -656,7 +637,7 @@
       "id": 10
     },
     "reviews": {
-      "id": 40
+      "id": 38
     }
   }
 }
